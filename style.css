@@ -150,3 +150,8 @@ body.dark #inputValue {
     background: linear-gradient(135deg, #111, #333);
     color: white;
 }
+
+
+#apiModal {
+  display: none !important;
+}
